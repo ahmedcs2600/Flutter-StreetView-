@@ -1,16 +1,18 @@
-# flutter_street_view
+# Flutter StreetView 
 
-A new Flutter application.
+Flutter StreetView implemented on Native IOS & Android.
 
-## Getting Started
+## Instruction For Android
 
-This project is a starting point for a Flutter application.
+Go to strings.xml
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+<string name="maps_api_key">PLACE_YOUR_API_KEY</string>
+```
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Please make sure to update tests as appropriate.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## What About IOS?
+Will launch for iOS in couple of days
